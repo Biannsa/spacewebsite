@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+nav a {
+  text-decoration: none;
+}
+a:active {
+  background-color:black;
+  color:white;
+}
+
+a:hover{
+
+  background-color:black;
+  color:blue;
+}
+
+img {
+  width: 40%;
+  margin: 30px;
+}
+
+/* h1, a {
+  color:white;
+}
+ */
+body {
+  background-color: black;
+}
+
+  *{
+  color: white;
+  }
+
+
+/* selector:pseudo-class {
+  property: value;
+  property: value;
+  property: value;
+} */
+
+/* h1:first-letter {
+  font-size: 2em;
+
+} */
